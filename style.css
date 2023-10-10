@@ -1,0 +1,65 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #abfc7f;
+    text-align: center;
+}
+
+
+
+h2 {
+    color: black;
+    font-size: 1rem;
+    margin-top: 70px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 80px;
+    background-color: #6075fe;
+    border-radius: 8px;
+    box-shadow: 0 0 10px white;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+}
+
+h1 {
+    color: white;
+    font-size: 1.2rem;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+
+}
+
+
+
+button {
+    background-color: rgb(255, 229, 101);
+    color: black;
+    padding: 7px 10px;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: none;
+}
+
+button:hover {
+    background-color: #ff3ae5;
+}
+
+#conjugationResult {
+    margin-top: 20px;
+    font-weight: bold;
+
+
+}
