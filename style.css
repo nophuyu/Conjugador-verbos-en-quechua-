@@ -63,3 +63,18 @@ button:hover {
 
 
 }
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    background-color: #6075fe;
+    border: 3px solid #fff;
+}
+
+option {
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+}
