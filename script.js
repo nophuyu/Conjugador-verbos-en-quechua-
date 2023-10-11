@@ -24,5 +24,5 @@ function conjugarVerboEnPresente(verbo) {
     // Escribir  lógica de conjugación del verbo en presente
     //  Incluir reglas para verbos regulares e irregulares ¿?
     // Devolver el resultado conjugado
-    return `Ñuqa ${verbo}ni, Qam ${verbo}nki, Pay ${verbo}n, Ñuqanchik ${verbo}nchik, Qamkuna ${verbo}nkichik, Paykuna ${verbo}nku`;
+    return `Ñuqa ${verbo}ni, Qam ${verbo}nki, Pay ${verbo}n, Ñuqanchik ${verbo}nchik, Ñuqayku ${verbo}yku, Qamkuna ${verbo}nkichik, Paykuna ${verbo}nku`;
 }

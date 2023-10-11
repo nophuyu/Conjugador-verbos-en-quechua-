@@ -8,8 +8,9 @@ body {
 
 h2 {
     color: black;
-    font-size: 1rem;
-    margin-top: 70px;
+    font-size: 0.8rem;
+    margin-top: 50px;
+    margin-bottom: 30px;
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -54,7 +55,7 @@ button {
 }
 
 button:hover {
-    background-color: #ff3ae5;
+    background-color: #9fff6c;
 }
 
 #conjugationResult {
